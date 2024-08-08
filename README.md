@@ -1,0 +1,2 @@
+# Peta Digital Desa Sidodadi Blitar
+Ini adalah repositori untuk peta digital Desa Sidodadi yang terletak Kecamatan Garum Kabupaten Blitar. Peta ini dikembangkan atas permintaan pihak Pemerintah Desa Sidodadi dan sebagai pemenuhan persyaratan kegiatan MMD FILKOM 2024.
