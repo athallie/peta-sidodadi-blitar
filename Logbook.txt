@@ -1,0 +1,8 @@
+2024-07-11	
+Pengumpulan kebutuhan pengguna terkait peta digital permintaan Kepala Desa. Kami berdiskusi terkait apa saja yang perlu ada dalam peta dan bagaimana mekanisme surveinya nanti.
+
+2024-07-12	
+Pemelajaran pembuatan peta digital melalui aplikasi QGIS dan pengujian pemetaan awal jalan di desa menggunakan aplikasi GPS Essentials.
+
+2024-07-13	
+Pemelajaran mekanisme penggunaan fitur-fitur QGIS dan penggunaan data peta Wilterstat 2019 dari BPS untuk penyusunan awal batas masing-masing dusun dengan batas administrasi RT/RW-nya.
